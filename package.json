@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NukaGrizz/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NukaGrizz/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/NukaGrizz/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
